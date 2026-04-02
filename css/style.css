@@ -80,7 +80,7 @@ section h4 {
     border-bottom: 2px solid #f0f0f0;
 }
 
-section i {
+section i .btn{
     color: #065468;
     padding: 8px;
     border-radius: 5px;
